@@ -1,0 +1,24 @@
+div {
+		width: 600px;
+		margin: auto;
+	}
+
+p {
+		font-family: Trebuchet MS;
+		text-align: justify-all;
+		font-size: 18px;
+	}
+
+body { background-color: #F9E4DF  ; 
+		color: #651705  ; 
+}
+
+h1 { color: #DC3A13  ; 
+	font-family: Trebuchet MS; 
+	font-size: 35px;
+	text-align: center;"
+}
+
+h2 {color:#DC3A13  ;
+	font-family: Trebuchet MS; 
+	text-align: center;"}
