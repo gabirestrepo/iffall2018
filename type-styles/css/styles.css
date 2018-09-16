@@ -1,0 +1,106 @@
+body {
+	background-color: #FDEBD0;
+	margin: 400; 
+	padding: 300;  
+	font-style: sans-serif; 
+	font-size: 12px;
+}
+
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 100px;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+h3 {
+	font-family: helvetica
+	font-size: 15px;
+	line-height: 15px;
+	color: #EB3A44 ; 
+}
+
+p.bold {
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+}
+
+p.italic {
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	font-style: italic;
+}
+
+p.spacethree {
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	letter-spacing: .3em;
+}
+
+p.spacesix{
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	letter-spacing: -.06em;
+}
+
+p.underline{
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	text-decoration: underline;
+}
+
+p.linethru {
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	text-decoration: line-through; 
+}
+
+p.overline {
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	text-decoration: overline; 
+}
+
+p.upper{
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	text-transform: uppercase; 
+}
+
+p.lower{
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	text-transform: lowercase; 
+}
+
+p.cap {
+	font-weight: normal;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+	line-height: 10px; 
+	text-transform: capitalize; 
+}
