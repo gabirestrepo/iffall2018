@@ -1,0 +1,56 @@
+div {
+		width: 600px;
+		margin: auto;
+	}
+
+
+body { 	background-color: #0F0D1C;
+		color: #E7E9C7  ; 
+		text-align: center;
+		font-family: 'Tauri', Trebuchet MS, sans-serif;
+		font-size: 12px;
+		line-height: 3em;
+		/*background-image: url(../images/skull.png);*/
+}
+
+h1 { color: #DDF31F  ; 
+	font-family: 'Sarina', cursive;
+	font-size: 110px;
+	text-align: center;
+}
+
+h2 {color:#E7E9C7  ;
+	font-family: 'Kanit', Trebuchet MS, sans-serif;
+	letter-spacing: .3em;
+	text-align: center;
+	font-size: 25px}
+
+p.chorus {
+font-weight: bold;
+font-size: 15px;
+color: white;
+}
+
+p.prechorus {
+	letter-spacing: -.06em;
+}
+
+p.verse{
+	color: #F1EC6F; 
+}
+
+p.guitarsolo {
+	letter-spacing: .3em;
+	font-size: 18px;
+}
+
+.leftbox{ 
+  background-image: url(../images/backimage.png);
+  position: absolute;
+  height: 380%;
+  width: 15%;
+  left: 0%;
+  top: 0%;
+}
+
+
