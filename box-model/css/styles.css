@@ -1,0 +1,225 @@
+
+header h1{
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: bold;
+	font-size: 80px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 20px;
+	padding-top: 165px;
+	color: #FA6A49;
+}
+
+header h2{
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 20px;
+	color: #FA6A49;
+}
+
+h3 {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0px;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	padding-left: 150px;
+}
+
+
+body {
+	margin:0;
+	padding: 0;
+	font-family: 'Archivo Narrow'
+	font-size: 16px;
+}
+
+section {
+	background-image: url('https://a00000820018-live-cc36dd0ff06f46c08f9308e5144c2f82-209a3c0.s3.amazonaws.com/ap_media/HUQPAJEUCXKV.jpg'); 
+	background-size: cover;
+	height: 480px;
+	background-repeat: repeat;
+	background-position: top;
+	margin-bottom: 0;
+}
+
+/*div.inner_column {
+		width: 500px;
+		margin: auto;
+}*/
+
+section:nth-child(2){
+	background-color: #73C6B6;
+	background-image: none;
+	margin-top: 0;
+	margin-bottom: 20px;
+	height: 750px;
+	padding-right: 150px;
+				}
+
+p {
+/*	padding-left: 150px;*/
+	padding-right: 0px;
+	font-family: 'Archivo Narrow', sans-serif;
+	color: white;
+	line-height: 25px;
+	font-size: 18px;
+	margin-top: 0px;
+}
+
+img{
+	height: 300px;
+	width: 400px;
+	float: right;
+	border: 1px solid white;
+	padding-top: 0;
+	margin-left: 40px;
+}
+
+section:nth-child(3){
+	background-color: #F8C471;
+	background-image: none;
+	margin-top: -40px;
+	margin-bottom: 20px;
+	height: 700px;
+	padding-right: 150px;
+				}
+
+section:nth-child(4){
+	background-color: #FE593F;
+	background-image: none;
+	margin-top: -40px;
+	margin-bottom: 20px;
+	height: 400px;
+	padding-right: 150px;
+				}
+
+section:nth-child(5){
+	background-color: #EDFDE8;
+	background-image: none;
+	margin-top: -20px;
+	margin-bottom: 0px;
+	height: 100px;
+	padding-right: 150px;
+				}
+
+p.bigtext {
+	font-size: 25px;
+	padding-left: 270px;
+	padding-right: 100px;
+	font-family: 'Archivo Narrow', sans-serif;
+	color: white;
+	line-height: 32px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+p.copyright {
+	font-size: 19px;
+	padding-left: 150px;
+	padding-right: 100px;
+	padding-top: 40px;
+	font-family: 'Archivo Narrow', sans-serif;
+	color: orange;
+	line-height: 20px;
+
+}
+/*../img/______ to get images from trhe images folder in  css*/
+.container{
+	display: flex;
+	flex-direction: row;
+}
+
+div.itembox{
+/*	display: inline-block;*/
+	float: left;
+	height: 150px;
+	width: 370px;
+	margin-right: 5px;
+	/*padding-top: 20px;*/
+	margin-top: 10px;
+	height: auto;
+				}
+
+div.itemboxtwo{
+/*	display: inline-block;*/
+	padding-right: 20px;
+	font-family: 'Archivo Narrow', sans-serif;
+	color: white;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-right: 70px;
+	height: auto;
+	width: 210px;
+}
+
+div.itemboxthree{
+	margin-right: -45px;
+	margin-left: -50px;
+	margin-top: 20px;
+	height: auto;
+	width: 310px;
+
+}
+
+h4 {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 20px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 9px;
+	color: #25ABDD;
+	margin-top: 0px;
+}
+
+div img.smallerimg {
+	width: 200px;
+	height:150px;
+	border: none;
+	float: left;
+	margin-bottom: 0px;
+	padding: 10px;
+	margin-right: 0px;
+	margin-left: 150px;
+}
+
+div img.rowtwoimg {
+	width: 200px;
+	height:150px;
+	border: none;
+	/*float: left;*/
+	margin-bottom: 20px;
+	padding: 0px;
+	float: left;
+}
+
+div.itemboxfour{
+/*	display: inline-block;*/
+	padding-right: 20px;
+	font-family: 'Archivo Narrow', sans-serif;
+	color: white;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-right: 15px;
+	height: auto;
+	width: 210px;
+}
+
+/*div p.phototext{
+	padding-right: 0px;
+	font-family: 'Archivo Narrow', sans-serif;
+	color: white;
+	line-height: 25px;
+	font-size: 18px;
+	margin-top: 0px;
+	margin-right: 50px;
+}*/
+
+
+
+
