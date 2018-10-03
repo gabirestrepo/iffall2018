@@ -1,0 +1,44 @@
+aside.floatright{
+	float: right;
+}
+
+aside.positioncorner{
+	position: absolute;
+	bottom: -165px;
+	right: 240px;
+	z-index: 100;
+}
+
+aside.green{
+	background-color: green;
+	margin: auto;
+	position: fixed;
+					/*top: 50px;*/
+	top: 0;
+	right: 0;
+	z-index: 2;
+}
+
+aside.red {
+background-color: red;
+position: absolute;
+left: 50%;
+transform: translateX(-50%); 
+}
+
+aside.black {
+background-color:black;
+position: absolute;
+left: 42%;
+transform: translateX(-50%); 
+transform: translateY(10%);
+/*transform: translateY(-50%);*/
+/*position: absolute;
+margin: auto;*/
+}
+
+/*#section4 aside {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}*/
