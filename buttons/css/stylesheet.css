@@ -1,0 +1,500 @@
+a#btn_fb {
+				display: inline-block;
+				margin:auto;
+				margin-top: 70px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: #3b5998;
+				font-size: 70px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: -2px;
+			}
+
+a#btn_fb:hover {
+				color: #dfe3ee;
+			}
+
+a#btn_apple {
+				display: inline-block;
+				margin:auto;
+				margin-top: 70px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: #8e8e93;
+				font-size: 70px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: -2px;
+}
+
+a#btn_apple:hover {
+			color: #e03a3e;		
+}
+
+a#btn_insta {
+				display: inline-block;
+				margin:auto;
+				margin-top: 70px;
+				padding: 8px 16px;
+				/*background-image: linear-gradient (#962fbf, #4f5bd5);*/
+				color: #8134AF;
+				font-size: 70px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: -2px;
+}
+
+a#btn_insta:hover{
+				/*background-color: #d62976;*/
+				background-image: linear-gradient(to bottom right, #d62976, yellow);
+				color: white;
+				box-sizing: border-box;
+				border-radius: 10px;
+
+}
+
+a#btn_coke {
+				display: block;
+				width: 100px;
+				height: 100px;
+				box-sizing: border-box;
+				border-radius: 50px;
+				margin: auto;
+				margin-top: 70px;
+				padding-top:35px;
+				background-color: red;
+				color: #fff;
+				text-align: center;
+				font-size: 23px;
+				font-family: 'Lobster', cursive;
+				text-decoration: none;
+			}
+
+a#btn_coke:hover {
+				background-color: #fff;
+				border: 3px solid red;
+				color: red;
+				/*text-align: center;
+				padding-top:35px;*/
+			}
+
+a#btn_harley {
+				display: inline-block;
+				margin:auto;
+				margin-top: 50px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: #EA6310 ;
+				font-size: 100px;
+}
+
+a#btn_harley:hover {
+				color: black;
+}
+
+a#btn_fitbit {
+				display: block;
+				margin: auto;
+				margin-top: 70px;
+				padding-top:35px;
+				color: black;
+				text-align: center;
+				font-size: 35px;
+				font-family: 'Noto Sans KR', sans-serif;
+				text-decoration: none;
+				padding: 8px 16px;
+
+}
+
+a#btn_fitbit:hover {
+				color: white;
+				background-color:#65DFC9 ;
+				width: 120px;
+				height: 60px;
+				text-align: center;
+				padding: 8px 16px;
+}
+
+a#btn_mk {
+				display: block;
+				margin: auto;
+				margin-top: 100px;
+				padding-top:35px;
+				color: black;
+				text-align: center;
+				font-size: 20px;
+				font-family: 'Poppins', sans-serif;
+				text-decoration: none;
+				padding: 8px 16px;
+}
+
+a#btn_mk:hover {
+				background-color: #E9D11F;
+				color: white;
+}
+
+a#btn_sar {
+				display: inline-block;
+				margin: auto;
+				margin-top: 100px;
+				color: #40F7D3;
+				text-align: center;
+				font-size: 40px;
+				font-family: 'Pathway Gothic One', sans-serif;
+				text-decoration: none;
+				padding: 4px 10px;
+				letter-spacing: -1px;
+}
+
+a#btn_sar:hover {
+				background-color: #40F7D3;
+				color: white;
+}
+
+a#btn_old {
+				display: inline-block;
+				height: 60px;
+				box-sizing: border-box;
+				border-radius: 200px;
+				margin-top: 80px;
+				padding: 15px 40px 0 40px;
+				background-color: #313F94;
+				color: #fff;
+				font-size: 30px;
+				font-family: 'Yantramanav', sans-serif;
+				text-decoration: none;
+				font-weight: bold;
+				letter-spacing: 1px;
+			}
+
+a#btn_old:hover {
+				background-color: #fff;
+				color: #313F94;
+			}
+
+
+a#btn_dime {
+				display: block;
+				width: 120px;
+				height: 120px;
+				box-sizing: border-box;
+				border-radius: 70px;
+				margin: auto;
+				margin-top: 70px;
+				padding-top:35px;
+				background-color: #B62B2B;
+				color: #fff;
+				text-align: center;
+				font-size: 20px;
+				text-decoration: none;
+				font-family: 'Fira Sans', sans-serif;
+				border: 3px solid black;
+			}
+
+a#btn_dime:hover {
+				background-color: black;
+			}
+
+a#btn_carnet {
+				font-family: 'Raleway', sans-serif;
+				text-decoration: none;
+				font-size: 15px;
+				color: black;
+				letter-spacing: -1px;
+				margin: auto;
+				margin-top: 50px;
+				padding-top:35px;
+				display: block;
+}
+
+
+a#btn_biss {
+				display: inline-block;
+				margin: auto;
+				margin-top: 100px;
+				color: #4E3737 ;
+				text-align: center;
+				font-size: 50px;
+				font-family: 'Fondamento', cursive;
+				text-decoration: none;
+				padding: 4px 10px;
+				letter-spacing: -1px;
+}
+			
+
+a#btn_ofa:hover {
+				text-decoration: underline;
+				color: #9A45FB  ;
+}
+
+a#btn_ofa {
+				display: inline-block;
+				margin: auto;
+				margin-top: 100px;
+				color: #73E9EA;
+				text-align: center;
+				font-size: 55px;
+				font-family: 'Work Sans', sans-serif;
+				text-decoration: none;
+				padding: 4px 10px;
+				letter-spacing: -1px;
+}
+
+a#btn_mbg {
+				display: inline-block;
+				margin: auto;
+				margin-top: 100px;
+				color: #65976D  ;
+				text-align: center;
+				font-size: 20px;
+				font-family: 'Alegreya Sans', sans-serif;
+				text-decoration: none;
+				padding: 4px 10px;
+				letter-spacing: 2px;
+}
+
+
+a#btn_moo {
+				display: inline-block;
+				height: 70px;
+				width: 125px;
+				box-sizing: border-box;
+				border-radius: 16px;
+				margin: auto;
+				margin-top: 105px;
+				padding: 13px 20px 0 25px;
+				box-sizing: border-box;
+				color: #5FAC8C ;
+				font-size: 30px;
+				font-family: 'Delius', cursive;
+				font-weight: bold;
+				text-decoration: none;
+				border: 3px solid #5FAC8C;
+			}
+
+a#btn_moo:hover {
+
+			color: #3A715B  ;
+			text-decoration: none;
+			border: 3px solid #3A715B ;
+}
+
+
+a#btn_ebike {
+				display: inline-block;
+				margin: auto;
+				height: 60px;
+				width: 140px;
+				box-sizing: border-box;
+				background-color: #2EEAEA;
+				margin-top: 100px;
+				color: white;
+				text-align: center;
+				font-size: 46px;
+				font-family: 'Yellowtail', cursive;
+				text-decoration: none;
+				padding: 4px 10px;
+				letter-spacing: -1px;
+				padding-left: 5px;
+}
+
+a#btn_ebike:hover {
+				text-decoration: underline;
+}
+
+
+a#btn_potter {
+				display: inline-block;
+				margin: auto;
+				margin-top: 60px;
+				color: #651D0B;
+				text-align: center;
+				font-size: 50px;
+				font-family: 'Shadows Into Light', cursive;
+				text-decoration: none;
+				padding: 4px 10px;
+				/*letter-spacing: -1px;*/
+}
+
+
+a#btn_potter:hover {
+				color: #EE3F14  ;
+}
+
+
+a#btn_ek {
+				display: inline-block;
+				margin: auto;
+				height: 60px;
+				width: 140px;
+				box-sizing: border-box;
+				margin-top: 100px;
+				text-align: center;
+				font-size: 30px;
+				font-family: 'Teko', sans-serif;
+				text-decoration: none;
+				letter-spacing: -1px;
+				color: orange;
+				line-height: 35px;
+			}
+
+a#btn_ek:hover {
+				background-image: linear-gradient(to bottom right, yellow, red);
+				color: white;
+				display: inline-block;
+				text-align: center;
+				margin: auto;
+				height: 70px;
+				width: 200px;
+				box-sizing: border-box;
+				margin-top: 100px;
+}
+
+
+a#btn_army {
+				display: inline-block;
+				height: 50px;
+				width: 120px;
+				box-sizing: border-box;
+				border-radius: 16px;
+				margin: auto;
+				margin-top: 105px;
+				/*padding: 13px 20px 0 25px;*/
+				box-sizing: border-box;
+				color: #423A04 ;
+				font-size: 30px;
+				font-family: 'Teko', sans-serif;
+				font-weight: bold;
+				text-decoration: none;
+				border: 3px solid #EED314 ;
+				letter-spacing: -1px;
+			}
+
+a#btn_army:hover {
+
+			color: #EED314   ;
+			text-decoration: none;
+			border: 3px solid #EED314  ;
+}
+
+a#btn_ideo {
+			 display: inline-block;
+				margin: auto;
+				margin-top: 100px;
+				color: #55D5CA   ;
+				text-align: center;
+				font-size: 40px;
+				font-family: 'Gruppo', cursive;
+				text-decoration: none;
+				/*padding: 4px 10px;*/
+				letter-spacing: 3px;
+
+}
+
+a#btn_ideo:hover {
+			color: #F9901A  ;
+}
+
+
+a#btn_NYR {
+				display: inline-block;
+				margin: auto;
+				margin-top: 50px;
+				color: black;
+				text-align: center;
+				font-size: 50px;
+				font-family: 'Overlock', cursive;
+				text-decoration: none;
+				padding: -10px 10px;
+				/*letter-spacing: -1px;*/
+}
+
+a#btn_NYR:hover {
+				color: gray;
+}
+
+a#btn_fore {
+				display: inline-block;
+				margin: auto;
+				color: white ;
+				text-align: center;
+				font-size: 30px;
+				font-family: 'Alegreya Sans', sans-serif;
+				text-decoration: none;
+				padding: 8px 10px;
+				padding-left: 2px;
+				margin-top: 80px;
+				margin-left: 2px;
+				height: 60px;
+				width: 200px;
+				box-sizing: border-box;
+				background-color: #272F55  ;
+}
+
+a#btn_fore:hover {
+				background-color: #4BC4F5  ;
+}
+
+a#btn_npr {
+				display: inline-block;
+				margin: auto;
+				color: red ;
+				text-align: center;
+				font-size: 35px;
+				font-family: 'Fira Sans', sans-serif;
+				letter-spacing: 8px;
+				text-decoration: none;
+				padding: 4px 10px;
+				padding-left: 12px;
+				margin-top: 80px;
+				margin-left: 2px;
+				height: 50px;
+				width: 100px;
+				box-sizing: border-box;
+				background-color: white;
+				border: 2px solid black;
+			}
+
+#btn_npr:hover {
+				border: 2px solid red;
+}
+
+a#btn_tuck {
+			display: inline-block;
+				margin: auto;
+				margin-top: 70px;
+				color: #3C3D3D   ;
+				text-align: center;
+				font-size: 47px;
+				font-family: 'Playfair Display', serif;
+				text-decoration: none;
+				padding: 4px 10px;
+				/*letter-spacing: -1px;*/
+
+}
+
+a#btn_tuck:hover {
+			color: #641453  ;
+}
+
+
+a#btn_velo {
+				display: inline-block;
+				margin: auto;
+				margin-top: 100px;
+				color: #C5C4CA   ;
+				text-align: center;
+				font-size: 20px;
+				font-family: 'Arimo', sans-serif;
+				text-decoration: none;
+				padding: 4px 10px;
+				letter-spacing: 10px;
+}
+
+a#btn_velo:hover {
+				color: #79797C  ;
+}
