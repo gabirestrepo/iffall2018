@@ -1,0 +1,46 @@
+img {
+	width: 100%;
+}
+
+h1 {
+	margin-left: 25px;
+	margin-right: 25px;
+	font-size: 20pt;
+	font-family: 'Oleo Script', cursive;
+	color: #291C0F ;
+}
+
+h2 {
+	margin-left: 25px;
+	margin-right: 25px;
+	font-size: 18pt;
+	font-family: 'Oleo Script', cursive;
+	margin-bottom: -10px;
+	color: #291C0F;
+}
+
+p {
+	margin-left: 25px;
+	margin-right: 25px;
+	line-height: 25px;
+	font-family: 'Karla', sans-serif;
+	font-size: 11pt;
+	color: #625C55  ;
+}
+
+p.time {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 13pt;
+	line-height: 20px;
+	color: #6D6052;
+}
+
+p.into {
+	font-style: italic;
+	font-size: 18pt;
+	line-height: 26px;
+	color: #6D6052;
+	margin-bottom: 45px;
+	font-weight: lighter;
+}
