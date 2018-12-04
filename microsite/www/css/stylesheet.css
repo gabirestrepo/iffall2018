@@ -23,14 +23,15 @@ img.big {
 }
 
 p.source {
-	color: white;
-	font-size: 12px;
+	color:#7E7D7B;
+	font-size: 11px;
 	font-family: 'Noto Sans SC', sans-serif;
 }
 
 hr {
 	margin-bottom: 10px;
 	float: bottom;
+	color:#7E7D7B;
 }
 
 

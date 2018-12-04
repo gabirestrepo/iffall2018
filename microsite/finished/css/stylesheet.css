@@ -1,0 +1,163 @@
+body {
+	background-color: black;
+}
+
+img.logo {
+	width: 10%;
+/*	padding-left: 200px;*/
+	padding-bottom: -10px;
+	padding-top: 0px;
+	float:right;
+	padding-right: 20px;
+	/*position: fixed;*/
+}
+
+img.tap {
+	width: 5%;
+	float: right;
+	padding-right: 200px;
+	padding-bottom: -10px;
+}
+
+img.big {
+	width: 70%;
+	height: 70%;
+	padding-left: 300px;
+}
+
+p.source {
+	color:#7E7D7B;
+	font-size: 11px;
+	font-family: 'Noto Sans SC', sans-serif;
+}
+
+hr {
+	margin-bottom: 10px;
+	float: bottom;
+	color:#7E7D7B;
+}
+
+
+div.itemboxtwo{
+/*	display: inline-block;*/
+	padding-right: 20px;
+	font-family: 'Anton', sans-serif;
+	color: white;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-right: 70px;
+	height: auto;
+	/*width: 900px;*/
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	letter-spacing: 3px;
+	/*position: absolute;*/
+	/*left: 50%;*/
+	/*margin-left: 230px;*/
+}
+
+div.nav {
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+a:hover {
+	color: white;
+}
+
+a:link {
+	text-decoration: none;}
+
+h1.ab {
+	color: #EFD502;}
+
+h1.his{
+	color: #017dc7;}
+
+h1.act {
+	color: #a73a92;}
+
+h1.edu {
+	color: #ec008b;}
+
+.slick-prev {
+	left: 25px;}
+
+.slick-next {
+	right: 25px;}
+
+
+@media (max-width: 1024px) {
+	img.big {
+		width: 80%;
+		height: 80%;
+		padding-left: 150px;}
+
+	img.logo {
+		width: 12%;
+	}
+
+	div.itemboxtwo{
+		padding-right: 0px;
+		font-family: 'Anton', sans-serif;
+		color: white;
+		font-size: 29px;
+		margin-top: 20px;
+		margin-right: 0px;
+		height: auto;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		letter-spacing: 3px;
+}
+	div.nav {
+		padding-right: 30px;
+		padding-left: 25px;
+}
+
+}
+
+@media (max-width: 414px) {
+
+	img.big {
+		width: 100%;
+		height: 100%;
+		padding-left: 400px;
+		padding-bottom: 10px;
+		/*padding-right: 100px;*/
+	}
+
+	img.logo {
+		width: 14%;
+		padding-top: 0px;
+		float:right;
+		padding-right: 0px;
+	/*position: fixed;*/
+}
+
+	div.itemboxtwo{
+		font-family: 'Anton', sans-serif;
+		color: white;
+		font-size: 29px;
+		margin-top: 0px;
+		margin-right: 0px;
+		/*height: auto;*/
+		/*display: flex;*/
+		flex-direction: column;
+		/*justify-content: center;*/
+		letter-spacing: 3px;
+}
+div.nav {
+		padding-right: 30px;
+		padding-left: 25px;
+		margin-top: -50px;
+
+}
+
+
+
+	}
+
+
+
